@@ -1,0 +1,18 @@
+/* Navigation.module.css */
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* max-width: 1280px; */
+    padding: 0 8px;
+    height: 72px;
+  }
+  
+  .navigation ul {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+    font-weight: 500;
+  }
+  
